@@ -11,4 +11,3 @@ gspread
 uuid
 flask_qrcode
 flask_sqlalchemy
-os
